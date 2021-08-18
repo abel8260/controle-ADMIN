@@ -3,7 +3,7 @@
 
 ## Description
 
-> This project is a answer to manage your health and management.           
+> This project is a answer to manage your health and financial  management.           
 
 
 ***
