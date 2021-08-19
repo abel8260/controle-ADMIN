@@ -1,4 +1,4 @@
-# PROJECT NAME: saude-posses-ADMIN
+# Saude-posses-ADMIN
 - version: oneshot;
 
 ## Description
