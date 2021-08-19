@@ -11,7 +11,10 @@
  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ***
-# Instructions:
+   # Instructions:
+
+   The fzd is made off transitions of cards. These cards:    
+***
 ```
  <a href="https://github.com/abel8260">
                      <div class="card">
@@ -43,3 +46,31 @@
                ```
 ````
 ***
+
+   The Rooms, things, and  etc is just the same logic.  
+
+   1) alter  the separator:
+   ***
+   ```
+             <div class="painel-nav-1-recente">
+                  <img  src="../../img/<LABEL>.png" class="recente">
+             </div>
+   ````
+   ***
+
+   2) alter the card 
+   3) put the card inside the second separator  
+    ***
+   ```
+   
+   <div class="painel-cards-1" >
+            
+               <div class="painel-nav-1">
+
+                <CARD>
+                
+               </div>
+          </div>
+   ````
+   ***
+   
