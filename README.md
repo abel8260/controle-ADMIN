@@ -60,7 +60,8 @@
 
    2) alter the card 
    3) put the card inside the second separator  
-    ***
+   
+   ***
    ```
    
    <div class="painel-cards-1" >
