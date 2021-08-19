@@ -48,7 +48,7 @@
 ***
 
    The Rooms, things, and  etc is just the same logic.  
-
+   0) alter the imgs properly 
    1) alter  the separator:
    ***
    ```
