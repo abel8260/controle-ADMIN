@@ -2,7 +2,7 @@
 - version: v(1.00.02);
 
 ## Download:
-> Its just go in the button "code".
+> Its just go in the button "code", download the zip and make you alts    
 
 
 ## Description
